@@ -1,0 +1,1 @@
+console.log("Ola Mundo, Agora este código está direto no arquivo JS")
