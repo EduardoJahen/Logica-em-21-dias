@@ -1,0 +1,5 @@
+//cCriando o For
+
+for(contador = 50; contador >= 0; contador-=5){
+    console.log(contador)
+}
